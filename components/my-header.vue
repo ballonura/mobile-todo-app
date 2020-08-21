@@ -1,5 +1,5 @@
 <template>
-  <div class="flex items-center justify-between">
+  <div class="flex items-center justify-between pt-6">
     <p class="text-dark font-bold ml-6" style="font-size: 2rem;">Today</p>
     <div class="h-10 w-10 flex items-center justify-center">
       <!-- prettier-ignore -->
