@@ -1,6 +1,19 @@
-# mobile-todo-app
+# Mobile Todo App
 
-## Build Setup
+```bash
+https://mobile-todo-app.vercel.app/
+
+```
+
+### Preview
+
+![Preview Slack clone](https://i.ibb.co/X56cSJD/1.png)
+
+### ERD
+
+![ERD](https://i.ibb.co/ng5nrS4/erd.png)
+
+# Build Setup
 
 ```bash
 # install dependencies
@@ -16,5 +29,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
